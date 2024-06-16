@@ -6,11 +6,12 @@ The Deployed code in the versel link is : https://wasserstoff-frontend-task-blue
 
 First, run the development server:
 
+
+
+```bash
 npm install 
 npm install react-slick
 npm install slick-carousel
-
-```bash
 npm run dev
 # or
 yarn dev
