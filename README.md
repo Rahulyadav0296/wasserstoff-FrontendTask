@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-The Deployed code in the versel link is : https://wasserstoff-frontend-task-blue.vercel.app/
-
+The project hosted on Vercel (https://wasserstoff-frontend-task-blue.vercel.app/) is a web application designed using modern frontend technologies.
+In the video linked (https://drive.google.com/file/d/1Jl6qdywUo35EAkzYo0HA5XWPwJ74ny9D/view?usp=sharing), I explain the working of the code and the creation of components in this project.
 ## Getting Started
 
 First, run the development server:
