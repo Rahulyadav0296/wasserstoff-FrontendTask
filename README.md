@@ -1,8 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+The Deployed code in the versel link is : https://wasserstoff-frontend-task-blue.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
+
+npm install 
+npm install react-slick
+npm install slick-carousel
 
 ```bash
 npm run dev
